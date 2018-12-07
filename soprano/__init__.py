@@ -41,3 +41,4 @@ from __future__ import absolute_import
 # Version definition
 __version__ = '0.8.1'
 __release__ = 'beta (Boggess)'
+
