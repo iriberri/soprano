@@ -11,4 +11,4 @@ branches:
 script:
   - which python
   - pip show ase
-  - python tests/
+  - python -v tests/
