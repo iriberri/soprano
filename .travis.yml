@@ -7,4 +7,5 @@ branches:
   - master
 script:
   - which python
+  - pip show ase
   - python tests/
